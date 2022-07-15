@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "learn typescript",
+      "status": false
+    },
+    {
+      "title": "let",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "let",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
